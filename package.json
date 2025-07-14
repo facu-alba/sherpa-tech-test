@@ -1,0 +1,19 @@
+{
+  "name": "sherpa-tech-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.13"
+  },
+  "dependencies": {
+    "axios": "^1.10.0",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "playwright": "^1.54.1"
+  }
+}
